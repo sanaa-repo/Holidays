@@ -3,7 +3,8 @@ body{
 }
 
 .row1{
-    padding-top: 100px;
+    padding-top: 125px;
+    padding-bottom: 50px;
 }
 
 .row1 img{
@@ -24,4 +25,16 @@ body{
     font-size: 60px;
     align-self: flex-start;
     padding-bottom: 30px;
+}
+
+.row2{
+    background-color: #D93939;
+    display: block;
+    min-height: 85vh;
+
+}
+
+.card-deck{
+    padding-top: 5vh;
+    margin: 70px;
 }
