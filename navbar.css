@@ -1,0 +1,16 @@
+.navimg{
+    width: 60px;
+    height: 60px;
+}
+.navbar{
+    color: black;
+    padding-bottom: 0px;
+    background-color: #FFFAF7;
+}
+.collapse{
+    display:flex;
+    justify-content:right;
+}
+.navbar-brand{
+    color:black;
+}
