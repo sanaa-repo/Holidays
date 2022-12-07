@@ -19,3 +19,14 @@ body{
     background-color: #FFFAF7;
     font-family: 'Gabriela';font-size: 22px;
 }
+
+hr{
+    border: none;
+    height: 4px;
+    background: magenta;
+}
+.navbar-nav{
+    display: flex;
+    flex-grow: 2;
+    justify-content: space-around;
+}
