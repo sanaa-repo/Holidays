@@ -23,7 +23,8 @@ body{
 hr{
     border: none;
     height: 4px;
-    background: magenta;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 .navbar-nav{
     display: flex;
