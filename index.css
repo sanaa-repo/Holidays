@@ -1,0 +1,22 @@
+hr{
+    border: none;
+    height: 4px;
+    background: black;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.flex{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    position: fixed;
+    bottom: 225px;
+    left: 650px;
+}
+
+.home-text{
+    font-size: 100px;
+    font-weight: 700;
+    color: white;
+}

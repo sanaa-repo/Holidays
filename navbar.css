@@ -1,6 +1,6 @@
 .navimg{
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
 }
 .navbar{
     color: black;
@@ -13,4 +13,9 @@
 }
 .navbar-brand{
     color:black;
+}
+
+body{
+    background-color: #FFFAF7;
+    font-family: 'Gabriela';font-size: 22px;
 }
